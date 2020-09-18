@@ -3,3 +3,5 @@ Solari Rodolfo
 Bernheim Agustin
 a) Puedo ver los datos que cargaron los colaboradores (beta y gamma)
 b) Si
+c) Si, los demas integrantes lo ven.
+d) En este caso nos comunicamos via Whatsapp.
