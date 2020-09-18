@@ -1,3 +1,5 @@
 De Moraiz Alejandro
 Solari Rodolfo
 Bernheim Agustin
+a) Puedo ver los datos que cargaron los colaboradores (beta y gamma)
+b) Si
